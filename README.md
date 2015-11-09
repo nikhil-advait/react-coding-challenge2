@@ -1,6 +1,6 @@
 ### About this example
  This example is to demostrate use of react, redux as flux architecture and webpack (mostly used for HMR).
- This example is actually a assignment/challange. Please go in challage/ directory and read problem statement
+ This example is actually an assignment/challenge. Please go in challege/ directory and read problem statement.
  
 ### Few notes
 - Used React 0.13
