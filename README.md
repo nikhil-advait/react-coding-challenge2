@@ -1,8 +1,8 @@
- ## About this example
+### About this example
  This example is to demostrate use of react, redux as flux architecture and webpack (mostly used for HMR).
  This example is actually a assignment/challange. Please go in challage/ directory and read problem statement
  
- ### Few notes
+### Few notes
 - Used React 0.13
 - Used Redux as flux architecture. I could have done only with React but redux is nicer :) (wanted to use react-router as well but since there was only one page so didn't make much sense)
 - Used ES6 (except class syntax..I don't like that much :) )
