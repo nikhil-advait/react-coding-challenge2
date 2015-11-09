@@ -1,0 +1,17 @@
+.user{
+  color: blue
+}
+
+.comment{
+  margin-left: 70px;
+  margin-top:20px;
+  /* background-color: lightcyan; */
+}
+
+.hidden{
+  display: none
+}
+
+.highlight{
+  background-color: lightcyan
+}
